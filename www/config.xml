@@ -9,7 +9,7 @@
 	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
 
 	<preference name="permissions" value="none"/>
-	<preference name="android-targetSdkVersion" value="21" />
+	<preference name="android-targetSdkVersion" value="27" />
 
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
@@ -19,7 +19,7 @@
 	<gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance"><false/></gap:config-file>
 
 	<preference name="deployment-target" value="8.0" />
-	<preference name="android-minSdkVersion" value="16" />
+	<preference name="android-minSdkVersion" value="20" />
 	<plugin name="cordova-plugin-crosswalk-webview" source="npm" />
 
 	<plugin name="cordova-plugin-wkwebview-engine" />
