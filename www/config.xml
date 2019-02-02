@@ -9,7 +9,7 @@
 	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
 
 	<preference name="permissions" value="none"/>
-	<preference name="android-targetSdkVersion" value="27" />
+	<preference name="android-targetSdkVersion" value="28" />
 
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
